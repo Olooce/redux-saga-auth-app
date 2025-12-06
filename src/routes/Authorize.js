@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Page401 from "../containers/errors/Page401"
+// import Page401 from "../containers/errors/Page401"
 
 
 const Authorize = (allowRoles, allowedRoles) => {
